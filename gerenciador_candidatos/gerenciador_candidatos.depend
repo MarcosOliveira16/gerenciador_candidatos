@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716929000 source:c:\codigos\códigos em c++\estrutura_de_dados\gerenciador_candidatos\gerenciador_candidatos\main.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<locale>
+	<limits>
+	<regex>
+
