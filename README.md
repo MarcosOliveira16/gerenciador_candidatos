@@ -1,6 +1,8 @@
 # Gerenciador de Candidatos
 
 Projeto básico elaborado no início de estudos sobre ponteiros na linguagem de C++ (CodeBlocks).
+
+
 Análise abaixo gerada por IA.
 
 ## Análise e Metodologia
